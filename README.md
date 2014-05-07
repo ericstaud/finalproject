@@ -1,5 +1,4 @@
-finalproject
-============
+
 # Final Project Ideas
 
 
