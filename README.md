@@ -13,3 +13,8 @@ User will aim at a basket and choose how hard (s)he wants to throw it with a pow
 ## Fly game
 A character will fly in the sky and try to avoid objects by moving up or down
 
+## Final Idea - Gem Catcher
+User will try to avoid items on a path, as of right now circles, and try to retrieve gems.
+
+Currently having issues making the rectanlge relocate when it intersects with the circle.
+
